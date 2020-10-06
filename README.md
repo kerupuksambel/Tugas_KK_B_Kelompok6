@@ -1,4 +1,7 @@
 # Tugas KK Kelompok 6
+Nodas Uziel     05111840007007
+Ammar Alifian   05111184000007
+Alie Husaini R. 05111840000097
 ## EDA data penjualan mobil menggunakan Orange
 Dataset dapat ditemukan pada link berikut: https://www.kaggle.com/CooperUnion/cardataset/notebooks <br><br>
 Dari yang sudah kami analisis menggunakan Jupyter Notebook, kami menemukan bahwa terdapat banyak outlier pada variabel Popularity. <br>
